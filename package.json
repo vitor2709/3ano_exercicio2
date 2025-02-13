@@ -18,7 +18,8 @@
   "homepage": "https://github.com/vitor2709/3ano_exercicio2#readme",
   "description": "",
   "devDependencies": {
-    "sass": "^1.83.4"
+    "grunt": "^1.6.1",
+    "sass": "^1.84.0"
   },
   "dependencies": {
     "-": "^0.0.1",
