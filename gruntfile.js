@@ -1,5 +1,8 @@
-module.exports = function(grunt) {
+module.exports = function (grunt) {
     grunt.initConfig({
-        pkg: grunt.file.readJson('packge.json'),
-    })
-}
+      pkg: grunt.file.readJSON('package.json')
+    });
+  
+    grunt.registerTask('default', []);
+  };
+  
